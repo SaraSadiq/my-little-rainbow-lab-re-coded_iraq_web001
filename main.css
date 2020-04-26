@@ -10,13 +10,13 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #red{
-  border-color: #f00;
+  border-top-color: #f00;
 }
 #orange{
-  color: #ffa500;
+  border-top-color:  #ffa500;
 }
 #yelo{
-  color: #ff0;
+  border-bottom-color:  #ff0;
 }
 #green{
   color:#00bc3f;
